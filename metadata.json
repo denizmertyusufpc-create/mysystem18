@@ -1,0 +1,6 @@
+{
+  "name": "MY SYSTEM 18",
+  "description": "Tarayıcı üzerinde çalışan, modüler pencere yöneticisi, IndexedDB sanal dosya sistemi, kapsamlı kişiselleştirme motoru ve OTA güncelleme desteğine sahip modern Web İşletim Sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
